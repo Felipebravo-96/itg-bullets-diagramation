@@ -50,10 +50,10 @@ The `link` properties are:
 
 ## Customization
 
-| CSS HANDLES    |                                                                                                                                                                               |
-| ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
-| `bullet_container`      |
-| `bullet__link`      |
+| CSS Handles |
+| ----------- |
+| `bullet_container`|
+| `bullet__link`|
 | `bullet__item`      |
 | `bullet__image`      |
 | `bullet__title`      |
