@@ -1,7 +1,7 @@
 
 # Bullets-Diagramation
 
-![whatsapp-button](https://user-images.githubusercontent.com/94660803/209262007-cd5162a2-4000-45ec-8185-9c0ee5cef581.png)
+Slider of Bullet categories
 
 WhatsApp button to redirect to the chat of your whatsapp store
 
